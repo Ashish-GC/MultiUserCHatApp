@@ -1,0 +1,14 @@
+how to run the chat app project :
+
+server :  cd C:\Users\hp\eclipse-workspace\MultiUserChatApp\bin
+           java com.Ashish.chatApp.network.Server this command will run the server
+
+
+client :  // created a runnable jar file via youtube 
+          cd C:\Users\hp\eclipse-workspace\MultiUserChatApp
+          java -jar mysqlrunjar.jar com.Ashish.chatApp.views.UserScreen 
+
+  
+new features to be added :-
+quit add using cross
+chat to individual by selecting their names 
